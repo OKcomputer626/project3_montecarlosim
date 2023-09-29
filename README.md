@@ -31,7 +31,7 @@ Given the volatile nature of the technology sector and the high stakes involved 
 * Libraries: yfinance, numpy, matplotlib, scipy, pandas
 
 ## Future Work
-[Utilize: Automatic differentiable Monte Carlo: Theory and application](https://journals.aps.org/prresearch/references/10.1103/PhysRevResearch.5.033041)
+For future work it would be intresting to try the following below approach where this report explores differentiable programming in conjunction with Monte Carlo methods, showcasing applications such as fast search of phase transitions and accurately finding ground states of interacting many-body models in two dimensions​. For more information check out Shi-Xin Zhang, Zhou-Quan Wan, and Hong Yao, published on July 21, 2023. [ Automatic differentiable Monte Carlo: Theory and application](https://journals.aps.org/prresearch/references/10.1103/PhysRevResearch.5.033041)
 
 ## References
 PowerPoint:
