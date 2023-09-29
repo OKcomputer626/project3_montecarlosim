@@ -1,4 +1,4 @@
-## [Project3: Monte Carlo Simulations](https://github.com/dsrichard97/exploratory_analysis.git)
+## [Project3: Monte Carlo Simulations](https://github.com/dsrichard97/montecarlo_analysis.git)
 * Collaborators: Richard Diazdeleon, Nate Talampas
 * Date: TBD
 
