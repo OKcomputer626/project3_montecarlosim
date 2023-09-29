@@ -40,4 +40,8 @@ Tableau:
 Workflow: 
 
 Dataset:  https://finance.yahoo.com/quote/ASML/history?p=ASML
+https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch
+
+
+Other References: 
 
