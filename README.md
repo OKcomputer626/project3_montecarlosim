@@ -16,12 +16,12 @@ III. Can Monte Carlo simulations provide actionable insights for portfolio diver
 
 ## Methodology
 * Data Exploration:
-  \a. Fetch historical stock data for NVDA and ASML.
-  \b. Perform exploratory data analysis to understand trends, seasonality, and volatility.
+  * a. Fetch historical stock data for NVDA and ASML.
+  * b. Perform exploratory data analysis to understand trends, seasonality, and volatility.
 * Statistical Tests:Conduct unit root tests to check for stationarity and use Granger causality tests to explore potential leading indicators. 
 * Model Fitting:
-  a. Calibrate Monte Carlo simulations using historical data and relevant financial metrics.
-  b. Utilize Geometric Brownian Motion (GBM) for stock price simulations.
+  * a. Calibrate Monte Carlo simulations using historical data and relevant financial metrics.
+  * b. Utilize Geometric Brownian Motion (GBM) for stock price simulations.
 * Model Comparison: We can create compute simulated trajectories of NVDA and ASML. This would allow us to evaluate the models based on risk and return metrics.
 ## Key Findings
 
