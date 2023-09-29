@@ -1,30 +1,37 @@
-# project3_montecarlosim
-Collaborators: Richard Diazdeleon
-Date: TBD
+## [Project3: Monte Carlo Simulations](https://github.com/dsrichard97/exploratory_analysis.git)
+* Collaborators: Richard Diazdeleon, Nate Talampas
+* Date: TBD
+
+insert image here 
+
+## Introduction
 
 
-Introduction
+## Research Questions
+* 1.
+* 2.
+* 3. 
+
+## Methodology
+* Data Exploration:  
+* Statistical Tests: 
+* Model Fitting: 
+* Model Comparison: 
+  
+## Key Findings
 
 
-Research Questions
-Methodology
-Data Exploration: 
-Statistical Tests: 
-Model Fitting: 
-Model Comparison: 
+##  Python Code and Libraries Used
+* Python Version: 
+* Libraries: 
 
-Key Findings
-R Code and Libraries Used
-R Version: 
-Libraries:
-Future Work:
+## Future Work
 
-
-References
+## References
 PowerPoint:
 
-Tableau:
+Tableau: 
 
-Workflow:
+Workflow: 
 
-Dataset: 
+Dataset:  
