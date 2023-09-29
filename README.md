@@ -31,6 +31,7 @@ Given the volatile nature of the technology sector and the high stakes involved 
 * Libraries: yfinance, numpy, matplotlib, scipy, pandas
 
 ## Future Work
+[Utilize: Automatic differentiable Monte Carlo: Theory and application](https://journals.aps.org/prresearch/references/10.1103/PhysRevResearch.5.033041)
 
 ## References
 PowerPoint:
