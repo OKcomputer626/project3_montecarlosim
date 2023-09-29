@@ -16,8 +16,8 @@ III. Can Monte Carlo simulations provide actionable insights for portfolio diver
 
 ## Methodology
 * Data Exploration:
-  a. Fetch historical stock data for NVDA and ASML.
-  b. Perform exploratory data analysis to understand trends, seasonality, and volatility.
+  \a. Fetch historical stock data for NVDA and ASML.
+  \b. Perform exploratory data analysis to understand trends, seasonality, and volatility.
 * Statistical Tests:Conduct unit root tests to check for stationarity and use Granger causality tests to explore potential leading indicators. 
 * Model Fitting:
   a. Calibrate Monte Carlo simulations using historical data and relevant financial metrics.
