@@ -31,7 +31,7 @@ For future work it would be intresting to try the following below approach where
 https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033041
 
 ## References
-PowerPoint:
+PowerPoint: https://github.com/dsrichard97/project3_montecarlosim/blob/main/NVDA%20Portfolio%20Risk%20Management.pptx
 
 Tableau: 
 
