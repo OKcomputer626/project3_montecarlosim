@@ -2,7 +2,7 @@
 * Collaborators: Richard Diazdeleon, Nate Talampas
 * Date: October 3rd, 2023
 
-<img src="montecarlosim.png" width= 200 height=300>
+<img src="montecarlosim.png" width= 200 height=200>
 
 
 ## Research Questions
