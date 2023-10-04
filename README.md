@@ -33,7 +33,7 @@ https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.033041
 ## References
 PowerPoint: https://github.com/dsrichard97/montecarlo_analysis/blob/main/NVDA%20Portfolio%20Risk%20Management.pdf
 
-Tableau: 
+Tableau: https://github.com/dsrichard97/montecarlo_analysis/blob/main/stockpricetableau.pdf
 
 Workflow: 
 
