@@ -35,11 +35,9 @@ PowerPoint: https://github.com/dsrichard97/montecarlo_analysis/blob/main/NVDA%20
 
 Tableau: https://github.com/dsrichard97/montecarlo_analysis/blob/main/stockpricetableau.pdf
 
-Workflow: 
 
 Dataset:  https://finance.yahoo.com/quote/ASML/history?p=ASML
 https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch
 
 
-Other References: 
 
