@@ -1,6 +1,5 @@
 ## [Project2: Monte Carlo Simulations](https://github.com/dsrichard97/montecarlo_analysis.git)
-* Collaborators: Richard Diazdeleon
-* Date: October 3rd, 2023
+* Collaborators: Richard Diazdeleon, Andres Gonzalez, Nate Talampas* Date: October 3rd, 2023
 
 <img src="montecarlosim.png" width= 200 height=200>
 
